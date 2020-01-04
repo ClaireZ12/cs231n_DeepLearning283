@@ -2,23 +2,23 @@
 Three homeworks of 280 course in ShanghaiTech University (2019-2020 winter).
 
 # homework 1
-PartA---about Mathamatics derivation and proof of Machine Learning
-PartB---Softmax Classifier
-        Perceptron Learning Algorithm
+PartA---about Mathamatics derivation and proof of Machine Learning<br>
+PartB---Softmax Classifier<br>
+        Perceptron Learning Algorithm<br>
         Two-layer Neural Network
 
 # homework 2
-Fully-connected Neural Network
-Batch Normalization
-Dropout
-Convolutional Neural Networks
-Pytorch on CIFAR-10
+Fully-connected Neural Network<br>
+Batch Normalization<br>
+Dropout<br>
+Convolutional Neural Networks<br>
+ytorch on CIFAR-10
 
 # homework 3
-RNN Captioning
-LSTM Captioning
-Network Visualization (Pytorch)
-GANs (Pytorch)
+RNN Captioning<br>
+LSTM Captioning<br>
+Network Visualization (Pytorch)<br>
+GANs (Pytorch)<br>
 Style Transfer (Pytorch)
 
 # Some Notes
