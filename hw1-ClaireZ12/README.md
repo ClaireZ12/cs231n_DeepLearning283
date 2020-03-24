@@ -1,7 +1,6 @@
 
 # Homework1
 
-Name:张苁卉&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; student ID:2019233184
 
 There are two parts of Homework1. 
 
