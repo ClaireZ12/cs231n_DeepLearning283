@@ -1,9 +1,5 @@
 # Homework3
 
-Name: 张苁卉 student ID: 2019233184
-
-**Please write your Chinese name and your student ID in this README**.
-
 ## Deadline
 **December 3, 2019, 23:59 UTC+8**
 
